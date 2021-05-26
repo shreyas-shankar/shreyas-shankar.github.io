@@ -36,6 +36,6 @@ export default {
     display: block;
     margin-bottom: 20px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: #472d30
+    /* color:#526488; */
   }
 </style>

@@ -1,29 +1,21 @@
 <template>
   <div class="container">
-    <div>
-      <h3 class="title">Hi. I'm Shreyas.</h3>
+      <h3 class="title">Hi! I'm Shreyas</h3>
+      <br />
       <div class="subtitle">
-        <span> I'm a Software Engineer working at IBM. </span>
+        <p class="line_height"> I'm a Software Engineer working at IBM. </p>
         <br />
-        <span>
-          Read more
-          <a href="/aboutme" target="_blank" rel="noopener noreferrer">
-            about me
-          </a>
-          or check out my
-          <a href="/blog" target="_blank" rel="noopener noreferrer">
-            blog.
-          </a></span
-        >
+        <p class="line_height">
+          I run, bike and play badminton. Follow me on <a href="https://www.strava.com/athletes/18769444" target="_blank">Strava</a>.</p>
+          <br />
+          <p class="line_height">I enjoy reading and write reviews of books I read. Follow me on <a href="https://www.goodreads.com/user/show/43750536-shreyas-s" target="_blank">Goodreads</a>.</p>
+          <br />
+          <p class="line_height">I publish a new blog post every week. Check out my
+          <a href="/blog" rel="noopener noreferrer">
+            blog
+          </a> here.</p>
         <br />
-        <span
-          >I may also be tinkering on a few
-          <a href="/aboutme" target="_blank" rel="noopener noreferrer">
-            projects
-          </a></span
-        >
       </div>
-    </div>
   </div>
 </template>
 
@@ -31,7 +23,6 @@
 .container {
   margin: 0 auto;
   min-height: 60vh;
-  display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -45,15 +36,23 @@
   font-size: 50px;
   color: #472d30;
   letter-spacing: 1px;
+  padding: 5px;
 }
 
 .subtitle {
   font-weight: 300;
   font-size: 30px;
-  color: #526488;
+  /* color: #526488; */
   word-spacing: 5px;
-  padding-bottom: 15px;
+  display: block;
+  width: 60%;
+  padding-top: 20px;
+  margin: 0 auto;
+  text-align: left;
 }
+/* .line_height {
+  margin-bottom: 15px;
+} */
 
 .links {
   padding-top: 15px;

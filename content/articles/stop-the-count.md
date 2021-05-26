@@ -1,7 +1,7 @@
 ---
 title: Stop the count!
-description: Learning how to use @nuxt/content to create a blog
-alt: my first blog post
+description: Measuring progress works really well... Until it doesn't.
+createdAt: April 21, 2021
 ---
 Measurements are essential to recognize progress. Want to know much you've been snacking lately? Compare your current weight with your pre-pandemic weight. Want to know how much more time you're wasting staring at a computer screen now? Look up the trend of your screen time for the past few months. Trends are amazing. They give a bird's eye view of all aspects of life.
   
@@ -13,9 +13,9 @@ I began to notice that I would sometimes not publish my activity if I felt that 
 
 I didn't know why I was doing this. It is odd behavior and I wanted to understand it. I tried to remember what thoughts went through my head when I decided not to publish an activity. Here are a few of those thoughts.  
 
-- This is not what I am capable of. This effort is a false representation of my ability. Why would I publish it?
-- What if the people who look at my Strava post see my low mileage for this run?
-- A 0.5 mile run isn't really a run anyway. Why publish it?
+"This is not what I am capable of. This effort is a false representation of my ability. Why would I publish it?"
+"What if the people who look at my Strava post see my low mileage for this run?"
+"A 0.5 mile run isn't really a run anyway. Why publish it?"
 
 Yesterday, I was running along my usual route and I started to feel tired. I wanted to stop. I started to feel the weight of yet another sub-mile run that would go unrecorded. I felt demoralized. I stopped running and started to walk. I paused the run hoping to take a small break and continue again. But that didn't happen. I felt like I couldn't go on. I finished the activity on Strava and did not publish it. My head was bowed. My specs were fogged over from running with a mask. My shins hurt. In that moment, I felt like I had lost an important personal battle. If you asked me why I felt that way, I couldn't tell you. I still can't. In less than thirty seconds, physically, I felt fine. But mentally, I was not. I thought about walking the rest of the 2 mile loop and then heading home. If ever there was a walk of defeat, this was it. 
 

@@ -2,8 +2,12 @@
     <nav class="navbar">
       <a class="nav_button" href="/">Home</a>
       <a class="nav_button" href="/blog">Blog</a>
-      <a class="nav_button" href="/about">About</a>
-      <a class="nav_button" href="/projects">Projects</a>
+      <!-- <a class="nav_button" href="/about">About</a> -->
+      <!-- <a class="nav_button" href="/projects">Projects</a> -->
+      <nav class="navbar_right">
+        <a class="nav_button" target="_blank" href="https://linkedin.com/in/shreyasshankar">LinkedIn</a>
+        <a class="nav_button" target="_blank" href="https://github.com/shreyas-shankar">GitHub</a>
+      </nav>
     </nav>
 </template>
 
@@ -15,6 +19,10 @@
   padding-top: 1em;
   padding-right: 3em;
   padding-bottom: 1em;
+}
+
+.navbar_right {
+  float: right;
 }
 
 .nav_button {
