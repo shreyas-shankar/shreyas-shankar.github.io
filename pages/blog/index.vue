@@ -16,7 +16,7 @@ export default {
   async asyncData ({ $content, params }) {
     const articles = await $content('articles')
       .only(['title', 'description', 'img', 'slug', 'author'])
-      .sortBy('createdAt', 'asc')
+      .sortBy('createdAt', 'desc')
       .fetch()
 
     return {
@@ -26,17 +26,20 @@ export default {
 }
 </script>
 <style scoped>
+a, a:visited {
+  text-decoration: none;
+  color: #472d30
+}
+a:hover {
+  text-decoration: underline;
+  color: #526488;
+}
 .blogcard {
-  border-radius: 10px;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   padding-left: 0.5em;
   margin: 0.5em;
   width: 60%;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-}
-.blogcard:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
 }
 .blogindex {
   margin-left: 10%;

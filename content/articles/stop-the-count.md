@@ -1,7 +1,7 @@
 ---
 title: Stop the count!
 description: Measuring progress works really well... Until it doesn't.
-createdAt: April 21, 2021
+createdAt: "2021-04-21T12:00:00.001Z"
 ---
 Measurements are essential to recognize progress. Want to know much you've been snacking lately? Compare your current weight with your pre-pandemic weight. Want to know how much more time you're wasting staring at a computer screen now? Look up the trend of your screen time for the past few months. Trends are amazing. They give a bird's eye view of all aspects of life.
   

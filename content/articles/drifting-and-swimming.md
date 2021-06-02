@@ -1,7 +1,7 @@
 ---
 title: Drifting and Swimming
 description: An allegory on my life so far.
-createdAt: Jan 2, 2021
+createdAt: "2021-01-22T12:00:00.001Z"
 ---
 I was placed in a raft on the river as a young child. It was a nice raft. A river raft. It was well built, sturdy and had all the comforts a child could want. The river took me along. The ride was easy. I rarely had to swim. The river carried me with surprising ease. I was not the only one on the river. There were others with me, floating down the river on their own rafts. They fell off the raft into the river and learnt to swim. Their rafts started leaking and they learnt to plug the holes. They didn't have enough food. They learnt to fish. Time passed and I found that I had grown up. The river became sluggish. People got out of their rafts and began to walk. I got out of my raft and joined them, albeit grudgingly. Why walk? The raft was nice. I hoped for another river. I liked the river. 
 

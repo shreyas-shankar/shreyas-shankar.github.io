@@ -1,8 +1,5 @@
 <template>
   <div>
-    <head>
-    <title>Shreyas Shankar</title>
-  </head>
     <Navbar />
     <Nuxt />
   </div>
