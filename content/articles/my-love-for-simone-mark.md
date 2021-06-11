@@ -2,6 +2,7 @@
 title: My love for Simone Giertz and Mark Rober
 description: Learning to fall in love with engineering.
 createdAt: "2021-06-01T20:30:00.001Z"
+path: "/blog/my-love-for-simone-mark"
 ---
 Let's face it. YouTube can be an amazing source of inspiration or a harbinger of despondency. This is clearly dictated by which rabbit hole you found yourself in at 2AM yesterday. Of all the various rabbit holes that one could go into (or be algorithmically coerced into), there aren't many that are better than works of people like Simone Giertz and Mark Rober. 
 
