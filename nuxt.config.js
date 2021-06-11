@@ -53,6 +53,10 @@ export default {
   },
   generate: {
     dir: 'docs',
-    routes: ["/blog/dont-solve-leetcode", "/blog/drifting-and-swimming", "/blog/my-love-for-simone-mark", "/blog/stop-the-count"]
+    routes: async () => {
+      const { $content } = require('@nuxt/content');
+      const files = await $content('articles').only(['slug']).fetch()
+      return files.map(item => '/blog/' + item.slug)
+    }
   }
 }
