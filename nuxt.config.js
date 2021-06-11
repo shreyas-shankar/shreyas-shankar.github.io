@@ -52,6 +52,7 @@ export default {
   build: {
   },
   generate: {
-    dir: 'docs'
+    dir: 'docs',
+    routes: ["/blog/dont-solve-leetcode", "/blog/drifting-and-swimming", "/blog/my-love-for-simone-mark", "/blog/stop-the-count"]
   }
 }
