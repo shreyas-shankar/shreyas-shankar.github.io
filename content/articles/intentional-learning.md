@@ -1,0 +1,23 @@
+---
+title: Intentional Learning
+description: Learning for no real reason.
+createdAt: "2021-06-14T20:18:10.478391"
+path: "/blog/intentional-learning"
+---
+Ever since completing grad school most of my learning has been incidental, or in many cases, accidental. What I mean by that is that there was an external need to understand certain things and for the most part it has been enough to learn what is needed at the moment. By extension, I could say that my schooling in India was also largely incidental. I'm going to generalize this statement and say that all schooling is incidental.
+
+What do I mean by incidental learning? Consider a task assigned to me in my role as a Software Engineer. I get a problem statement. A potential solution for the problem will typically require becoming familiar with a new theoretical concept or a new open-source solution. Once I've learned enough to use the concept/tool/software/package, I will use it to build my solution and then move on. This is an example of incidental learning. I didn't look to learn the concept/tool/software/package for its own sake and I probably won't ever use it again if it isn't necessary.
+
+What do I mean by accidental learning? I file taxes every year. Each year, it's done with some trepidation and a feeling of being way out of my depth. Each year, I learn a new piece of information about the tax system. For instance, this year, I read about standard and itemized deductions. In the past, I've blindly chosen standard deductions. This year I came across an article that explained standard and itemized deductions and I ended up learning something. If I hadn't come across that article then, I would have chosen standard deductions this time as well.
+
+Incidental and accidental learning are both reactive. They are actions done to satisfy an existing need for knowledge. In school systems that place a high emphasis on exam performance, the entire school year becomes an incidental learning experience with the exam as the end goal. This was certainly true for me. Once I finally got out of the academic setting, I was faced with a new problem. There wasn't anything that I needed to learn. Sure, there will always be incidental learning expectations at work and I will learn things as and when they were needed, but something was missing.
+
+I then started to see all these people who would decide to learn something and just start learning. They would want to learn how to draw and just start. They would want to learn to invest their money and just start. In my view, this learning is different from incidental and accidental learning. In the case of someone learning to draw, there might not be a need for that person to learn to draw. It might not be a requirement in their job. They did it because they wanted to. That is such a wonderful thing!
+
+Learning because they wanted to - intentional learning - is something that was never given enough emphasis when I was growing up. It wasn't necessary. During school, there was a syllabus and a textbook. All learning happened within the confines of the syllabus and it never occurred to me that I could or would want to learn something outside of that syllabus.
+
+As I reached this point in my career where incidental learning was no longer able to keep up with my ambitions, I noticed that there were people who went out of their way to learn things that were not necessarily required at this moment. I don't know how to learn with intention. The world doesn't have a syllabus that I can follow. Rather, there are so many syllabi that choosing one becomes difficult. I'm stumbling along, trying to find an intentional learning practice that works for me.
+
+At the end of the day, I think that structure doesn't matter. What matters is intention and learning. What matters is the discipline to continue learning about something even after the initial motivation fades away. The most difficult part of intentional learning is that it doesn't offer any instant gratification. Intentional learning doesn't scratch any itches. It is to prepare for a problem that isn't immediately obvious. It is to prepare for an uncertain future. This is a skill that doesn't come naturally to me. But it has to be done.
+
+An exercise that I'm trying out is to pick a new topic each month and try to learn everything I can about the topic. At the end of the month, I will write a small paper or make a presentation about the topic. The goal isn't to be a part of the cognoscenti of said topic but to learn something that doesn't have any immediate use. Let the learning begin!
