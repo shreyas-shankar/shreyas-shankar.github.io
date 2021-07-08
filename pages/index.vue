@@ -3,7 +3,7 @@
       <h3 class="title">Hi! I'm Shreyas</h3>
       <br />
       <div class="subtitle">
-        <p class="line_height"> I'm a Software Engineer working at IBM. </p>
+        <p class="line_height"> I'm a Software Engineer at <a href="https://clari.com" target="_blank">Clari</a>.</p>
         <br />
         <p class="line_height">
           I run, bike and play badminton. Follow me on <a href="https://www.strava.com/athletes/18769444" target="_blank">Strava</a>.</p>
