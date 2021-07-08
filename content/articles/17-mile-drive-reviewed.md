@@ -4,7 +4,7 @@ description: 17 Miles, 5 hours, 1 man.
 createdAt: "2021-07-07T18:19:46.481389"
 path: "/blog/17-mile-drive-reviewed"
 ---
-I took a week off between jobs. I spent three days in Monterey during that time and loved every minute of it. It was time spent with myself and I barely spoke to another soul during my time there. I barely stexted anyone and spent the entire time on the beach. I came home with a wide smile on my face and wide sunburns on my arms. Monterey was a blast.
+I took a week off between jobs. I spent three days in Monterey during that time and loved every minute of it. It was time spent with myself and I barely spoke to another soul during my time there. I barely texted anyone either and mostly spent the entire vacation on the beach. I came home with a wide smile on my face and wide sunburns on my arms. Monterey was a blast.
 
 After spending two whole days on the beach in Monterey I couldn't bring myself to do a third day there. I decided to spend the third day in Carmel and then head home. I checked out of my hotel and started driving to Carmel. I knew that Pebble Beach was near Carmel but didn't know that Pebble Beach was actually a small golf town and not just a beach. So I routed to Pebble Beach and that, unfortunately, took me to 17 Mile Drive.
 
@@ -14,19 +14,19 @@ Now, I've been to 17 Mile Drive in the past. It's the go-to location to take tho
 
 Let's begin our tour of 17 Mile Drive.
 
-<u>Shepherd's Knoll</u> - I spent a whopping 10 minutes. After 10 minutes of intense staring, all I could see were trees. There was nothing here. The Shepherd in Shepherd's Knoll is the name of an old dude who owned this land. Rating: Waste of Time.
+<u>Shepherd's Knoll</u> - I spent a whopping 10 minutes. After 10 minutes of intense staring, all I could see were trees. I couldn't find anything here. The Shepherd in Shepherd's Knoll is the name of an old dude who owned this land. And to top it off, the guy was actually called Sheperd. They screwed up his name. It should be obvious by now that this place is clearly a mistake. Rating: Waste of Time.
 
-<u>Huckleberry Hill</u> - Another stop that promises a lot and delivers nothing. It's a hill that probably makes for a great address but does nothing for a tourist. Rating: Waste of Time.
+<u>Huckleberry Hill</u> - Another stop that promises a lot and delivers nothing. It's a hill that probably makes for a great address but does nothing for a tourist. Rating: Another waste of time.
 
 <u>Spanish Bay</u> - This is my favorite spot along 17 Mile Drive. Spanish Bay more than makes up for the first two disappointments. Spend your time walking along the pristine beach and staring at the magnificent waves and the blue ocean. If the day is sunny, bring a chair or a beach blanket and settle down. It doesn't get any better than this. Rating: Absolutely wonderful.
 
-<u>The Restless Sea</u> - A 30s drive from Spanish Bay. It's a beautiful place with waves crashing into large rocks. The more adventure-minded can try to climb the rocks. I'd give it a high rating if there was a place to sit there (Sigh. I'm turning into an old man). Overall, a great place to stand and contemplate the meaning of life while waves crash endlessly on rocks below you. Rating: Relaxation amidst chaos.
+<u>The Restless Sea</u> - A 30 second drive from Spanish Bay. It's a beautiful place with waves crashing into large rocks. The more adventure-minded can try to climb the rocks. I'd give it a high rating if there was a place to sit there (Sigh. I'm turning into an old man). Overall, a great place to stand and contemplate the meaning of life while waves crash endlessly on rocks below you. Rating: Relaxation amidst chaos.
 
-<u>Point Joe</u> - Point Joe is a nice place that's right next to The Restless Sea. I like this place just for the story. The place probably gets its name from an old man named Joe who lived on a hut at the edge of the rocks and sold trinkets to visitors. There is now a swath of well-maintained lawn in the spot where his house once stood. No great views of the sea but you can see some cormorants sunbathing. A pretty cool place. Rating: Would have been perfect if I could go to the little swath of grass and sit on it.
+<u>Point Joe</u> - Point Joe is a nice spot that is right next to The Restless Sea. I like this place just for the story. The place apparently gets its name from an old man named Joe who lived on a hut at the edge of the rocks and sold trinkets to visitors. There is now a swath of well-maintained lawn in the spot where his house once stood. No great views of the sea but you can see some cormorants bathing in the sun. A pretty cool spot. Rating: Would have been perfect if I could go to the little swath of grass and sit on it.
 
 <u>China Rock</u> - Apparently the site of an old Chinese fishing village. Rating: Meh
 
-<u>Bird Rock</u> - A big jutting rock in the water that's usually full of birds. Pretty cool place. Bring binoculars or a camera with good zoom to see these birds. Rating: Pretty cool.
+<u>Bird Rock</u> - A big jutting rock in the water that's usually full of birds. Bring binoculars or a camera with good zoom to see these birds. Rating: Pretty cool.
 
 <u>Seal Rock</u> - Closed for visitors when I was there. It is a cubbing ground for seals. It would have been cool if it was open. Rating: N/A
 
