@@ -5,6 +5,7 @@
         <NuxtLink :to="{ name: 'blog-slug', params: { slug: article.slug } }">
           <div>
             <h2>{{ article.title }}</h2>
+            <span class="date-float-right">{{ formatDate(article.createdAt) }}</span>
             <p>{{ article.description }}</p>
           </div>
         </NuxtLink>
@@ -15,12 +16,18 @@
 export default {
   async asyncData ({ $content, params }) {
     const articles = await $content('articles')
-      .only(['title', 'description', 'img', 'slug', 'author'])
+      .only(['title', 'description', 'img', 'slug', 'author', 'createdAt'])
       .sortBy('createdAt', 'desc')
       .fetch()
 
     return {
       articles
+    }
+  },
+  methods: {
+    formatDate (date) {
+      const options = { year: 'numeric', month: 'short', day: 'numeric' }
+      return new Date(date).toLocaleDateString('en', options)
     }
   }
 }
@@ -48,5 +55,8 @@ a:hover {
   color: #472d30;
   font-size: 40px;
   padding-left: 10px;
+}
+.date-float-right {
+  float: right;
 }
 </style>
